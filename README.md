@@ -1,7 +1,7 @@
 ## Hi there, I'm Oussama Mondad [Broxos] 👋 
 
 
-![]([https://badge.mediaplus.ma/binary/oumondad](https://badge.mediaplus.ma/levi/oumondad))
+![](https://badge.mediaplus.ma/levi/oumondad)
 
 
 
